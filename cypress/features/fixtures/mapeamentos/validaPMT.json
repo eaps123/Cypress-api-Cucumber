@@ -1,0 +1,187 @@
+[
+  {
+    "path": "VlrTotalCredito",
+    "cell": "L4",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "IOF",
+    "cell": "L5",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrTcCorban",
+    "cell": "L8",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrTcBmp",
+    "cell": "L9",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrOutrasDespesas",
+    "cell": "L11",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrOutrosServicos",
+    "cell": "L12",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrSeguro",
+    "cell": "L13",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrAvaliacao",
+    "cell": "L14",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrDespachante",
+    "cell": "L15",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrRegistro",
+    "cell": "L16",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrBlindagem",
+    "cell": "L17",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrAcessorios",
+    "cell": "L18",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrVistoria",
+    "cell": "L19",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrCertiDocs",
+    "cell": "L20",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "VlrSolicitado",
+    "cell": "L21",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "TxJurosAoMes",
+    "cell": "L22",
+    "format": "number"
+  },
+  {
+    "path": "Prazo",
+    "cell": "L23",
+    "format": "integer"
+  },
+  {
+    "path": "DataContratacao",
+    "cell": "L24",
+    "format": "date",
+    "excelNumberFormat": "dd/MM/yyyy"
+  },
+  {
+    "path": "DtPrimVencto",
+    "cell": "L25",
+    "format": "date",
+    "excelNumberFormat": "dd/MM/yyyy"
+  },
+  {
+    "path": "CETaoMes",
+    "cell": "L26",
+    "format": "number"
+  },
+  {
+    "path": "CETaoAno",
+    "cell": "L27",
+    "format": "number"
+  },
+  {
+    "path": "VlrTotalDivida",
+    "cell": "L28",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "TipoPessoa",
+    "cell": "L29",
+    "format": "map",
+    "valueMap": {
+      "1": "PF",
+      "2": "PJ"
+    }
+  },
+  {
+    "path": "AnoBase",
+    "cell": "L30",
+    "format": "integer"
+  },
+  {
+    "path": "PercTcBmp",
+    "cell": "L32",
+    "format": "percent",
+    "multiplyBy": 1
+  },
+  {
+    "path": "PercTcCorban",
+    "cell": "L33",
+    "format": "percent",
+    "multiplyBy": 1
+  },
+  {
+    "path": "TxJurosAoAno",
+    "cell": "L34",
+    "format": "number"
+  },
+  {
+    "path": "VlrTAC",
+    "cell": "L35",
+    "format": "numberBR",
+    "excelNumberFormat": "#,##0.00"
+  },
+  {
+    "path": "DtUltimoVencto",
+    "cell": "L36",
+    "format": "date",
+    "excelNumberFormat": "dd/MM/yyyy"
+  },
+  {
+    "path": "CodigoSimulacao",
+    "cell": "L37",
+    "format": "string"
+  },
+  {
+    "path": "IsValorInicialLiquido",
+    "cell": "L31",
+    "format": "map",
+    "valueMap": {
+      "true": "SIM",
+      "false": "NÃO"
+    }
+  }
+]

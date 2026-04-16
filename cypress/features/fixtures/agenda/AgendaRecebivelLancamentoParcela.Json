@@ -1,0 +1,26 @@
+{
+  "auth": {
+    "Usuario": "jose.crema@fulltechpro.com.br",
+    "Senha": "Jc.040923!",
+    "CodigoParametro": "JOSE_TESTE_INTEGRACAO",
+    "Chave": "79aef6c8-7429-4dfc-b4bd-f5ca42962df0"
+  },
+  "dto": {
+    "CodigoProposta": "905b2213-0798-4d08-adcd-55883592e242",
+    "CodigoOperacao": "string",
+    "NroParcela": 1
+  },
+  "dtoLancamentoParcela": {
+    "DtPagamento": "2025-07-31",
+    "VlrPagamento": 300,
+    "VlrDesconto": 0,
+    "PermiteDescapitalizacao": false,
+    "DescricaoLancamento": "Lançamento Teste Automatizado"
+  },
+  "parametros": [
+    {
+      "Nome": "string",
+      "Valor": "string"
+    }
+  ]
+}

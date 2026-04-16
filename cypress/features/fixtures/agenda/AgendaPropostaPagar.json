@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "Usuario": "automacao.agenda1@gmail.com",
+        "Senha": "Automacaoagenda1!",
+        "CodigoParametro": "INTEGRACAO_AUTOMACAO_AGENDA",
+        "Chave": "2db5bdab-e84b-40ed-91aa-35dc08ff0a43"
+    },
+    "dto": {
+        "codigoProposta": "92b61f6e-a635-439b-8224-a1a0b3e30a0d",
+        "codigoOperacao": "<string>"
+    },
+    "parametros": [
+        {
+            "nome": "<string>",
+            "valor": "<string>"
+        },
+        {
+            "nome": "<string>",
+            "valor": "<string>"
+        }
+    ]
+}

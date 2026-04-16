@@ -1,0 +1,6 @@
+{
+    "dto": {
+        "CodigoOperacao": "{{$guid}}",
+        "DocumentoCliente": "05.277.654/0001-80"
+    }
+}

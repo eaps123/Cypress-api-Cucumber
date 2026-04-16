@@ -1,0 +1,27 @@
+{
+    "auth": {
+        "Usuario": "",
+        "Senha": "",
+        "CodigoParametro": "",
+        "Chave": ""
+    },
+    "dto": {
+        "CodigoProposta": "c69954fe-8638-4fa9-aed7-9ec3d1cf8eba",
+        "CodigoOperacao": "string",
+        "NroParcelas": [
+            1
+        ]
+    },
+    "dtoGerarUnicaLiquidacao": {
+        "DtVencimento": "2026-07-19T19:24:10.972Z",
+        "DtExpiracao": "2026-07-24T19:24:10.972Z",
+        "Liquidacao": true,
+        "PagamentoViaBoleto": true,
+        "PagamentoViaPIX": false,
+        "DescricaoLiquidacao": "teste 2e139cbe-8297-4127-9b2e-324654eec6ec",
+        "VlrLiquidacao": 100,
+        "VlrDesconto": 100,
+        "PermiteDescapitalizacao": false,
+        "TipoRegistro": 1
+    }
+}

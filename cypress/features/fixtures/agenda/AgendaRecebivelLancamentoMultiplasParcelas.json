@@ -1,0 +1,29 @@
+{
+    "auth": {
+        "Usuario": "usuario",
+        "Senha": "senha",
+        "CodigoParametro": "codigoparametro",
+        "Chave": "chave"
+    },
+    "dto": {
+        "CodigoProposta": "78781866-bea6-4ab7-bc68-c4b27582d86a",
+        "CodigoOperacao": "string",
+        "MotivoBaixa": "7"
+    },
+    "dtoLancamentoParcelas": [
+        {
+            "NroParcela": 1,
+            "DtPagamento": "2025-08-20",
+            "VlrPagamento": 1000,
+            "vlrDesconto": 100,
+            "PermiteDescapitalizacao": true,
+            "DescricaoLancamento": "Lançamento Teste Automatizado"
+        }
+    ],
+    "parametros": [
+        {
+            "Nome": "string",
+            "Valor": "string"
+        }
+    ]
+}

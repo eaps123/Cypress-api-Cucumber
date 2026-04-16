@@ -1,0 +1,167 @@
+[
+    {
+        "path": "parametros[0].Valor",
+        "cell": "C2",
+        "format": "map",
+        "valueMap": {
+            "true": "SIM",
+            "false": "NÃO"
+        }
+    },
+    {
+        "path": "TipoIndiceFinanceiro",
+        "cell": "C3",
+        "format": "map",
+        "valueMap": {
+            "0": "NENHUM",
+            "1": "CDI",
+            "2": "SELIC",
+            "3": "IPCA",
+            "4": "INCC",
+            "5": "IGPM"
+        }
+    },
+    {
+        "path": "PercIndiceFinanceiro",
+        "cell": "C4",
+        "format": "percent",
+        "excelNumberFormat": "0.00000%"
+    },
+    {
+        "path": "VlrProdutoBem",
+        "cell": "C5",
+        "format": "number"
+    },
+    {
+        "path": "TipoPessoa",
+        "cell": "C6",
+        "format": "map",
+        "valueMap": {
+            "1": "PF",
+            "2": "PJ"
+        }
+    },
+    {
+        "path": "AnoBase",
+        "cell": "C7",
+        "format": "integer"
+    },
+    {
+        "path": "NroDiasAcrescimo",
+        "cell": "C9",
+        "format": "number"
+    },
+    {
+        "path": "Prazo",
+        "cell": "C11",
+        "format": "integer"
+    },
+    {
+        "path": "PercJurosNegociado",
+        "cell": "C12",
+        "format": "percent",
+        "excelNumberFormat": "0.00000%"
+    },
+    {
+        "path": "VlrSolicitado",
+        "cell": "C15",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrTAC",
+        "cell": "C16",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrOutrasDespesas",
+        "cell": "C17",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrOutrosServicos",
+        "cell": "C18",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrSeguro",
+        "cell": "C19",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrAvaliacao",
+        "cell": "C20",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrDespachante",
+        "cell": "C21",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrRegistro",
+        "cell": "C22",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrBlindagem",
+        "cell": "C23",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrAcessorios",
+        "cell": "C24",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrVistoria",
+        "cell": "C25",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrCertidocs",
+        "cell": "C26",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrTxAdmMensal",
+        "cell": "C34",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrSeguroMensal1",
+        "cell": "C35",
+        "format": "numberBR",
+        "excelNumberFormat": "#,####0.0000"
+    },
+    {
+        "path": "PercSeguroMensal1",
+        "cell": "C36",
+        "format": "percent",
+        "excelNumberFormat": "0.00000%"
+    },
+    {
+        "path": "VlrSeguroMensal2",
+        "cell": "C37",
+        "format": "numberBR",
+        "excelNumberFormat": "#,####0.0000"
+    },
+    {
+        "path": "PercSeguroMensal2",
+        "cell": "C38",
+        "format": "percent",
+        "excelNumberFormat": "0.00000%"
+    }
+]
