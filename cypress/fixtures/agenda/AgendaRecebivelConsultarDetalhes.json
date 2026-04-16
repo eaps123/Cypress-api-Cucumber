@@ -1,0 +1,24 @@
+{
+  "auth": {
+    "Usuario": "jose.crema@fulltechpro.com.br",
+    "Senha": "Jc.040923!",
+    "CodigoParametro": "JOSE_TESTE_INTEGRACAO",
+    "Chave": "79aef6c8-7429-4dfc-b4bd-f5ca42962df0"
+  },
+  "dto": {
+    "CodigoProposta": "codigoproposta",
+    "CodigoOperacao": "string",
+    "NroParcelas": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "dtoConsultaDetalhes": {
+    "TrazerBoleto": true,
+    "TrazerAgendaDetalhada": true,
+    "TrazerCodigosCobranca": true,
+    "TrazerSaldoAtualizado": true
+  }
+}

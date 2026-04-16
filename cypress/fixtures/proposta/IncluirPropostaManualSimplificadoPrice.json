@@ -1,0 +1,69 @@
+{
+    "dto": {
+        "NroDiasIntervaloPrazo": 10,
+        "DocumentoCliente": "007.031.609-07",
+        "CodigoOperacao": "{{$guid}}",
+        "VlrSolicitado": 10000,
+        "Prazo": 5,
+        "NroDiasAcrescimo": 25,
+        "PercJurosNegociado": 1,
+        "FluxoIrregular": true,
+        "VlrIOF": 1,
+        "VlrTAC": 2,
+        "VlrOutrasDespesas": 3,
+        "VlrOutrosServicos": 4,
+        "VlrSeguro": 5,
+        "VlrProdutoBem": 6,
+        "VlrEntrada": 7,
+        "VlrEntradaTradeIn": 8,
+        "VlrEntradaParcelada": 9,
+        "VlrDespesasAF": 10,
+        "VlrCorban": 11,
+        "VlrAvaliacao": 12,
+        "VlrDespachante": 13,
+        "VlrRegistro": 14,
+        "VlrServTerceiro": 15,
+        "VlrRegistroCartorio": 16,
+        "VlrTxAdmMensal": 17,
+        "VlrRetencao": 18,
+        "VlrBlindagem": 19,
+        "VlrAcessorios": 20,
+        "VlrVistoria": 21,
+        "VlrCertiDocs": 22,
+        "PropostaPIXPagamentoDTO": {
+            "ChavePIX": "jonas@jonas.jonas"
+        },
+        "PropostaContaPagamentoDTO": {
+            "CodigoBanco": 468,
+            "NumeroBanco": 998,
+            "TipoConta": 1,
+            "Agencia": "3333",
+            "AgenciaDig": "",
+            "Conta": "1111",
+            "ContaDig": "4",
+            "DocumentoFederalPagamento": "007.031.609-07",
+            "NomePagamento": "Pagamento"
+        },
+        "PropostaLancamentos": [
+            {
+                "CampoID": "TED",
+                "VlrTransacao": 1462.39,
+                "CodigoBanco": 341,
+                "NumeroBanco": 341,
+                "TipoConta": 1,
+                "Agencia": "3030",
+                "AgenciaDig": "3",
+                "Conta": "49827",
+                "ContaDig": "2",
+                "DocumentoFederal": "007.031.609-07",
+                "NomePagamento": "TESTE TED QA"
+            }
+        ]
+    },
+    "parametros": [
+        {
+            "Nome": "SITUACAOPROPOSTAEMDIGITACAO",
+            "Valor": "true"
+        }
+    ]
+}

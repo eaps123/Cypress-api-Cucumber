@@ -1,0 +1,27 @@
+{
+    "dto": {
+        "CodigoOperacao": "{{$guid}}",
+        "DocumentoCliente": "05.277.654/0001-80",
+        "DocumentoParceiroCorrespondente": "782.096.150-33",
+        "TipoContrato": "CSG",
+        "CodigoVersaoCCB": 5318,
+        "NumeroCCB": 531,
+        "CalculoProposta": {
+            "PropostaModelo": 2,
+            "DadosCalculo": {
+                "PmtDesejada": 1000,
+                "Prazo": 10,
+                "percJurosNegociado": 12.5,
+                "VlrParcela": 88,
+                "VlrSolicitado": 800,
+                "VlrTAC": 5.50,
+                "DtPrimVencimento": "2027-11-05T22:03:06.554Z",
+                "TipoPessoa": 2,
+                "DtContratacao": "2027-11-04"
+            }
+        },
+        "PropostaPIXPagamentoDTO": {
+            "ChavePIX": "jonas@jonas.jonas.com"
+        }
+    }
+}

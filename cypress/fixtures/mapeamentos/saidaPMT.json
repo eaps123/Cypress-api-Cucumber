@@ -1,0 +1,174 @@
+[
+    {
+        "path": "IsValorInicialLiquido",
+        "cell": "C5",
+        "format": "map",
+        "valueMap": {
+            "true": "SIM",
+            "false": "NÃO"
+        }
+    },
+    {
+        "path": "VlrTotalCredito",
+        "cell": "J4",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrSolicitado",
+        "cell": "J21",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrTotalDivida",
+        "cell": "J28",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "IOF",
+        "cell": "J5",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrTAC",
+        "cell": "J6+J7+J8+J9",
+        "format": "sum",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "PercTcBmp",
+        "cell": "C11",
+        "format": "percent",
+        "multiplyBy": 1
+    },
+    {
+        "path": "PercTcCorban",
+        "cell": "C12",
+        "format": "percent",
+        "multiplyBy": 1
+    },
+    {
+        "path": "VlrTcBmp",
+        "cell": "J9",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrTcCorban",
+        "cell": "J8",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrOutrasDespesas",
+        "cell": "J11",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrOutrosServicos",
+        "cell": "J12",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrSeguro",
+        "cell": "J13",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrAvaliacao",
+        "cell": "J14",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrDespachante",
+        "cell": "J15",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrRegistro",
+        "cell": "J16",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrBlindagem",
+        "cell": "J17",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrAcessorios",
+        "cell": "J18",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrVistoria",
+        "cell": "J19",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrCertiDocs",
+        "cell": "J20",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "TxJurosAoMes",
+        "cell": "J22",
+        "format": "percent",
+        "multiplyBy": 1
+    },
+    {
+        "path": "Prazo",
+        "cell": "J23",
+        "format": "integer"
+    },
+    {
+        "path": "DataContratacao",
+        "cell": "J24",
+        "format": "date",
+        "excelNumberFormat": "dd/MM/yyyy"
+    },
+    {
+        "path": "DtPrimVencto",
+        "cell": "J25",
+        "format": "date",
+        "excelNumberFormat": "dd/MM/yyyy"
+    },
+    {
+        "path": "CETaoMes",
+        "cell": "J26",
+        "format": "percent",
+        "multiplyBy": 1
+    },
+    {
+        "path": "CETaoAno",
+        "cell": "J27",
+        "format": "percent",
+        "multiplyBy": 1
+    },
+    {
+        "path": "TipoPessoa",
+        "cell": "J29",
+        "format": "map",
+        "valueMap": {
+            "1": "PF",
+            "2": "PJ"
+        }
+    },
+    {
+        "path": "AnoBase",
+        "cell": "J30",
+        "format": "integer"
+    }
+]

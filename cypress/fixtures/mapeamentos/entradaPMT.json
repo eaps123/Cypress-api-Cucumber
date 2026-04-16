@@ -1,0 +1,151 @@
+[
+    {
+        "path": "VlrInicial",
+        "cell": "C4",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "IsValorInicialLiquido",
+        "cell": "C5",
+        "format": "map",
+        "valueMap": {
+            "true": "SIM",
+            "false": "NÃO"
+        }
+    },
+    {
+        "path": "TipoPessoa",
+        "cell": "C6",
+        "format": "map",
+        "valueMap": {
+            "1": "PF",
+            "2": "PJ"
+        }
+    },
+    {
+        "path": "AnoBase",
+        "cell": "C7",
+        "format": "integer"
+    },
+    {
+        "path": "DtContratacao",
+        "cell": "C8",
+        "format": "date",
+        "excelNumberFormat": "dd/MM/yyyy"
+    },
+    {
+        "path": "Taxa",
+        "cell": "C9",
+        "format": "number"
+    },
+    {
+        "path": "Prazo",
+        "cell": "C10",
+        "format": "integer"
+    },
+    {
+        "path": "PercTcBmp",
+        "cell": "C11",
+        "format": "number"
+    },
+    {
+        "path": "PercTcCorban",
+        "cell": "C12",
+        "format": "number"
+    },
+    {
+        "path": "VlrTcCorban",
+        "cell": "C13",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrTcBmp",
+        "cell": "C14",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrOutrasDespesas",
+        "cell": "C16",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrOutrosServicos",
+        "cell": "C17",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrSeguro",
+        "cell": "C18",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrAvaliacao",
+        "cell": "C19",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrDespachante",
+        "cell": "C20",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrRegistro",
+        "cell": "C21",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrBlindagem",
+        "cell": "C22",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrAcessorios",
+        "cell": "C23",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrVistoria",
+        "cell": "C24",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "path": "VlrCertidocs",
+        "cell": "C25",
+        "format": "numberBR",
+        "excelNumberFormat": "#,##0.00"
+    },
+    {
+        "repeat": {
+            "forEach": "Parcelas",
+            "startRow": 5,
+            "columns": {
+                "E": {
+                    "path": "NroParcela",
+                    "format": "integer"
+                },
+                "F": {
+                    "path": "DtVencimento",
+                    "format": "date",
+                    "excelNumberFormat": "dd/MM/yyyy"
+                },
+                "G": {
+                    "path": "Valor",
+                    "format": "numberBR",
+                    "excelNumberFormat": "#,##0.00"
+                }
+            }
+        }
+    }
+]

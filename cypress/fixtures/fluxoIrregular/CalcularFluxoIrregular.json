@@ -1,0 +1,30 @@
+{
+    "dto": {
+        "VlrInicial": 65000,
+        "IsValorInicialLiquido": false,
+        "TipoPessoa": 1,
+        "IsentarIOF": true,
+        "AnoBase": 252,
+        "DtContratacao": "2026-06-27",
+        "Taxa": 3.5,
+        "Prazo": 20,
+        "PercTcBmp": 2.12,
+        "PercTcCorban": 1.91,
+        "VlrTcCorban": 5000.99,
+        "VlrTcBmp": 1500.32,
+        "VlrOutrasDespesas": 1300.89,
+        "VlrOutrosServicos": 2801.11,
+        "VlrSeguro": 789.03,
+        "VlrAvaliacao": 200.14,
+        "VlrDespachante": 350.50,
+        "VlrRegistro": 150.69,
+        "VlrBlindagem": 830.70,
+        "VlrAcessorios": 89.81,
+        "VlrVistoria": 109.25,
+        "VlrCertidocs": 121.10,
+        "Parcelas": [
+            { "NroParcela": 1, "DtVencimento": "2026-07-27T00:00:00", "Valor": 1500 },
+            { "NroParcela": 2, "DtVencimento": "2033-05-27T00:00:00"}
+        ]
+    }
+}
